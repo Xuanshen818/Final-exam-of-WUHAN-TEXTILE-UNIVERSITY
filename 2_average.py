@@ -13,6 +13,8 @@
 20.0000
 '''
 
+#使用函数
+
 def calculate_average(n, numbers):
     if n == 0:
         return 0.0
